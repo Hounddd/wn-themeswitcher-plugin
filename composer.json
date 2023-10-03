@@ -1,0 +1,26 @@
+{
+    "name": "hounddd/wn-themeswitcher-plugin",
+    "type": "winter-plugin",
+    "description": "Theme switcher plugin for Winter CMS",
+    "homepage": "https://github.com/Hounddd/wn-themeswitcher-plugin",
+    "keywords": ["winter cms", "winter", "plugin", "theme"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hounddd - Damien MATHIEU",
+            "email": "damien@hounddd.fr",
+            "role": "Original Author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Hounddd/wn-themeswitcher-plugin/issues",
+        "source": "https://github.com/Hounddd/wn-themeswitcher-plugin"
+    },
+    "require": {
+        "php": ">=7.2",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "themeswitcher"
+    }
+}
